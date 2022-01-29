@@ -21,9 +21,15 @@ Work experience
   * Laboratory: QBPC (Maeda) Lab
   * 2019/10 - Present
 
-* JST PRESTO Researcher (さきがけ専任研究者)
-  * Japan Science and Technology Agency (JST)
-  * 
+* PRESTO Researcher (さきがけ専任研究者)
+  * Japan Science and Technology Agency (JST, 科学技術振興機構)
+  * 2019/10 - Present
+  
+* Postdoctoral Fellow
+  * Japan Society for the Promotion of Science ([JSPS, 日本学術振興会](https://www.jsps.go.jp/english/))
+  * Nominated by The Royal Society
+  * 2019/10 - Present
+ 
   
 Skills
 ======
