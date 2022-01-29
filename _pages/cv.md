@@ -57,22 +57,24 @@ Work experience
   
 Skills
 ======
-* Computer languages
-  * [MATLAB](http://www.mathworks.com)
-  * [LabVIEW](https://www.ni.com/en-us/shop/labview.html)
-  * [Tcl](https://www.tcl.tk/)
-  * [Python](https://www.python.org/)
-  * [Jupter Notebook](https://jupyter.org/)
+* [Quantum biology](https://en.wikipedia.org/wiki/Quantum_biology)
 * [Spin chemistry](http://spinportal.chem.ox.ac.uk/home.aspx)
-  * Experimentally and theoretically
 * [Microspectroscopy](https://en.wikipedia.org/wiki/Micro-spectrophotometry)
   * [Time-resolved](https://en.wikipedia.org/wiki/Time-resolved_spectroscopy)
   * [Confocal](https://en.wikipedia.org/wiki/Confocal_microscopy)
   * [Fluorescence](https://en.wikipedia.org/wiki/Fluorescence_microscope)
   * [Single molecule](https://en.wikipedia.org/wiki/Single-molecule_experiment)
   * [Fluorescence fluctuation spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_correlation_spectroscopy)
-* [Spin chemistry](http://spinportal.chem.ox.ac.uk/home.aspx)
-  * Experimentally and theoretically
+* [Molcular dynamics (MD)](https://en.wikipedia.org/wiki/Molecular_dynamics)
+* [Molecular biology](https://en.wikipedia.org/wiki/Molecular_biology)
+  * [Cell culture](https://en.wikipedia.org/wiki/Cell_culture)
+  * [Protein production](https://en.wikipedia.org/wiki/Protein_production)
+* Computer languages
+  * [MATLAB](http://www.mathworks.com)
+  * [LabVIEW](https://www.ni.com/en-us/shop/labview.html)
+  * [Tcl](https://www.tcl.tk/)
+  * [Python](https://www.python.org/)
+  * [Jupter Notebook](https://jupyter.org/)
   
 Awards
 ======
