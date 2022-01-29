@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lewis"
+  name             : "Lewis M Antill"
   avatar           : "ProfilePic.jpg"
   bio              : "Special Project Researcher (PRESTO Researcher), Saitama University (JST)"
   location         : "Saitama, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=w80KNdoAAAAJ&hl=en"
+  email            : "lewismantill@saitama-u.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/Lewis-Martyn-Antill?ev=hdr_xprf&_sg=4KTFJLRxn3QmJVmKgBn9pt-e6FQYgJ16I2wzSOfuarnZrOfZujkIxXG2x_NEy2IVG2mLKxofoA4DpjkaevsFzw8n"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lmantill"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/lewis-m-antill-0144a099/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9266-5584"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
