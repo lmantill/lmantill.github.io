@@ -37,8 +37,23 @@ Work experience
 * Postdoctoral Fellow
   * [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) (JSPS, 日本学術振興会)
   * Nominated by [The Royal Society](https://royalsociety.org/)
-  * 2019/10 - Present
+  * 2018/10 - 2019/09
+  
+* Research Assistant
+  * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
+  * 2018/06 - 2018/08
+  
+* [Komaba Writers Studio](https://ale2.c.u-tokyo.ac.jp/ale_web/) Teaching Assistant
+  * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
+  * 2015/10 - 2016/07
 
+* Teaching Assistant
+  * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
+  * 2015/04 - 2015/07
+  
+* Atmospheric Chemistry Temporary Summer Intern
+  * [University of Leicester](https://le.ac.uk/)
+  * 2014/07
   
 Skills
 ======
