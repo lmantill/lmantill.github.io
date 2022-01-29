@@ -80,7 +80,7 @@ Skills
 Awards and Scholarships
 ======
 * Best Presentation Award
-  * [第３回量子生命科学会](http://jsqls.kenkyuukai.jp/special/?id=25164)
+  * [The 3rd Annual Meeting of the Quantum Life Science Society Conference (第３回量子生命科学会)](http://jsqls.kenkyuukai.jp/special/?id=25164)
   * Title: Exploring magnetic field effects in biomolecules with high-sensitivity fluorescence spectroscopy
   * 2021/09
 * EFEPR Scholarship
@@ -90,8 +90,26 @@ Awards and Scholarships
   * The University of Tokyo
   * Best academic performance and dissertation in the year.
   * 2019/03
+* Valedictorian (卒業生代表)
+  * The University of Tokyo
+  * 2018/09
+* Poster Prize
+  * Spin Chemistry Meeting 2017 (Taylor & Francis)
+  * 2017/09
+* 2017 International Conference Travel Grant
+  * The University of Tokyo
+  * 2017/05
+* MEXT Scholarship 
+  * [Ministry of Education, Culture, Sports, Science and Technology (文部科学省)](https://www.mext.go.jp/en/)
+  * 2014/08
+* ERASMUS Scholarship
+  * [ERASMUS Program](https://www.erasmusprogramme.com/post/scholarships)
+  * 2012/07
 
-  
+Organisations
+======
+
+
 Funding
 ======
 * Currently signed in to 43 different slack teams
