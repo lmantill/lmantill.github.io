@@ -2,7 +2,7 @@
 title: "Photoinduced flavin-tryptophan electron transfer across vesicle membranes generates magnetic field sensitive radical pairs"
 collection: publications
 permalink: /publication/2018-09-20-paper-title-number-5
-excerpt: "We demonstrate that riboflavin tetrabutyrate is embedded in the vesicle bilayer and can undergo electron transfer with tryptophan molecules in either the inner water pool or the bulk solution. Remarkably, flavin mononucleotide encapsulated in the inner water pool can undergo electron transfer across the vesicle bilayer to generate a magnetically sensitive radical pair with tryptophan molecules located in the bulk solution..<br/><img src='/images/vesicles.png'>"
+excerpt: "We demonstrate that riboflavin tetrabutyrate is embedded in the vesicle bilayer and can undergo electron transfer with tryptophan molecules in either the inner water pool or the bulk solution. Remarkably, flavin mononucleotide encapsulated in the inner water pool can undergo electron transfer across the vesicle bilayer to generate a magnetically sensitive radical pair with tryptophan molecules located in the bulk solution.<br/><img src='/images/vesicles.png'>"
 date: 2018-09-20
 venue: 'Molecular Physics'
 paperurl: 'https://doi.org/10.1080/00268976.2018.1524525'
