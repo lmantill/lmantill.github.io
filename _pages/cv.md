@@ -65,6 +65,7 @@ Skills
   * [Fluorescence](https://en.wikipedia.org/wiki/Fluorescence_microscope)
   * [Single molecule](https://en.wikipedia.org/wiki/Single-molecule_experiment)
   * [Fluorescence fluctuation spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_correlation_spectroscopy)
+* [Magnetic resonance](https://en.wikipedia.org/wiki/Electron_paramagnetic_resonance)
 * [Molcular dynamics (MD)](https://en.wikipedia.org/wiki/Molecular_dynamics)
 * [Molecular biology](https://en.wikipedia.org/wiki/Molecular_biology)
   * [Cell culture](https://en.wikipedia.org/wiki/Cell_culture)
@@ -76,8 +77,19 @@ Skills
   * [Python](https://www.python.org/)
   * [Jupter Notebook](https://jupyter.org/)
   
-Awards
+Awards and Scholarships
 ======
+* Best Presentation Award
+  * [第３回量子生命科学会](http://jsqls.kenkyuukai.jp/special/?id=25164)
+  * Title: Exploring magnetic field effects in biomolecules with high-sensitivity fluorescence spectroscopy
+  * 2021/09
+* EFEPR Scholarship
+  * [International EPR (ESR) Society](https://ieprs.org/)
+  * 2019/11
+* [The First National High School Memorial Award (一高記念賞)](https://ja.wikipedia.org/wiki/%E4%B8%80%E9%AB%98%E8%A8%98%E5%BF%B5%E8%B3%9E)
+  * The University of Tokyo
+  * Best academic performance and dissertation in the year.
+  * 2019/03
 
   
 Funding
