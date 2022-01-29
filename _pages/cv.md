@@ -63,11 +63,16 @@ Skills
   * [Tcl](https://www.tcl.tk/)
   * [Python](https://www.python.org/)
   * [Jupter Notebook](https://jupyter.org/)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Spin chemistry](http://spinportal.chem.ox.ac.uk/home.aspx)
+  * Experimentally and theoretically
+* [Microspectroscopy](https://en.wikipedia.org/wiki/Micro-spectrophotometry)
+  * [Time-resolved](https://en.wikipedia.org/wiki/Time-resolved_spectroscopy)
+  * [Confocal](https://en.wikipedia.org/wiki/Confocal_microscopy)
+  * [Fluorescence](https://en.wikipedia.org/wiki/Fluorescence_microscope)
+  * [Single molecule](https://en.wikipedia.org/wiki/Single-molecule_experiment)
+  * [Fluorescence fluctuation spectroscopy](https://en.wikipedia.org/wiki/Fluorescence_correlation_spectroscopy)
+* [Spin chemistry](http://spinportal.chem.ox.ac.uk/home.aspx)
+  * Experimentally and theoretically
   
 Awards
 ======
