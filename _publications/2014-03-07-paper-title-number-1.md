@@ -1,5 +1,5 @@
 ---
-title: "Ionic liquid crystals derived from guanidinium salts: induction of columnar mesophases by bending of the cationic core"
+title: "1. Ionic liquid crystals derived from guanidinium salts: induction of columnar mesophases by bending of the cationic core"
 collection: publications
 permalink: /publication/2014-03-07-paper-title-number-1
 excerpt: "Investigating the influence of meta-substitution of the cation on the mesomorphic properties.<br/><img src='/images/liqcrys.jpg'>"
