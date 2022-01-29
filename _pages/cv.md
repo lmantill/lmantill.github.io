@@ -23,7 +23,7 @@ Work experience
 
 * JST PRESTO Researcher (さきがけ専任研究者)
   * Japan Science and Technology Agency (JST)
-  * 2019/10 - Present
+  * 
   
 Skills
 ======
@@ -48,10 +48,14 @@ Talks
   
 Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Funding
 ======
 * Currently signed in to 43 different slack teams
+
+Languages
+======
+* English (Native)
+* Japanese (Intermediate)
+* German (Basic)
