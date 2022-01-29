@@ -1,5 +1,5 @@
 ---
-title: "4. Flavin Adenine Dinucleotide Photochemistry Is Magnetic Field Sensitive at Physiological pH"
+title: "[4] Flavin Adenine Dinucleotide Photochemistry Is Magnetic Field Sensitive at Physiological pH"
 collection: publications
 permalink: /publication/2018-05-03-paper-title-number-4
 excerpt: "We present time-resolved optical absorption and magnetic field effect data on the photochemistry following blue light excitation of flavin adenine dinucleotide (FAD) in aqueous solution in the pH range 2.3 to 8.0.<br/><img src='/images/FADpH.jpg'>"
