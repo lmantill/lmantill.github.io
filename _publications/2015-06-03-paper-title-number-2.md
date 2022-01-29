@@ -10,7 +10,7 @@ citation: 'Joshua P. Beardmore, Lewis M. Antill, and Jonathan R. Woodward, (2015
 ---
 Short-lived radicals generated in the photoexcitation of flavin adenine dinucleotide (FAD) in aqueous solution at low pH are detected with high sensitivity and spatial resolution using a newly developed transient optical absorption detection (TOAD) imaging microscope. Radicals can be studied under both flash photolysis and continuous irradiation conditions, providing a means of directly probing potential biological magnetoreception within sub-cellular structures. Direct spatial imaging of magnetic field effects (MFEs) by magnetic intensity modulation (MIM) imaging is demonstrated along with transfer and inversion of the magnetic field sensitivity of the flavin semiquinone radical concentration to that of the ground state of the flavin under strongly pumped reaction cycling conditions. A low field effect (LFE) on the flavin semiquinone–adenine radical pair is resolved for the first time, with important implications for biological magnetoreception through the radical pair mechanism.
 
-Press Releases
+"Press Releases"
 
 [The University of Tokyo Press Release](https://www.u-tokyo.ac.jp/focus/en/press/p_20150605.html)
 
