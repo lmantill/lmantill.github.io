@@ -10,11 +10,5 @@ location: "Saitama, Japan"
 
 Coming soon!
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
+Summary
 ======
