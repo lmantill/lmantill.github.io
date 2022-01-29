@@ -57,7 +57,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Computer languages
+  * [MATLAB](http://www.mathworks.com)
+  * [LabVIEW](https://www.ni.com/en-us/shop/labview.html)
+  * [Tcl](https://www.tcl.tk/)
+  * [Python](https://www.python.org/)
+  * [Jupter Notebook](https://jupyter.org/)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
