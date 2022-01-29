@@ -2,8 +2,7 @@
 title: "Optical Absorption and Magnetic Field Effect Based Imaging of Transient Radicals"
 collection: publications
 permalink: /publication/2015-06-03-paper-title-number-2
-excerpt: 'Imaging radicals: Direct spatial imaging of photochemically generated transient radicals with high sensitivity and sub-micrometer resolution is demonstrated for the photoexcited electron transfer reaction of flavin adenine dinucleotide along with selective imaging of magnetic field sensitive spin-correlated radical pairs. A low field effect on this photoreaction is clearly resolved with important implications for biological magnetoreception.'
-<br/><img src='/images/mcontent.jpg'>
+excerpt: 'Imaging radicals: Direct spatial imaging of photochemically generated transient radicals with high sensitivity and sub-micrometer resolution is demonstrated for the photoexcited electron transfer reaction of flavin adenine dinucleotide along with selective imaging of magnetic field sensitive spin-correlated radical pairs. A low field effect on this photoreaction is clearly resolved with important implications for biological magnetoreception.<br/><img src='/images/mcontent.jpg'>'
 date: 2015-06-03
 venue: 'Angewandte Chemie International Edition'
 paperurl: 'https://doi.org/10.1002/anie.201502591'
