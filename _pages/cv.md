@@ -100,20 +100,36 @@ Awards and Scholarships
 * 2017 International Conference Travel Grant
   * The University of Tokyo
   * 2017/05
-* MEXT Scholarship 
+* MEXT Scholarship for PhD
   * [Ministry of Education, Culture, Sports, Science and Technology (文部科学省)](https://www.mext.go.jp/en/)
   * 2014/08
-* ERASMUS Scholarship
+* ERASMUS Scholarship for MChem 
   * [ERASMUS Program](https://www.erasmusprogramme.com/post/scholarships)
   * 2012/07
 
 Organisations
 ======
-
+* [Royal Society of Chemistry](https://www.rsc.org/)
+  * Member (MRSC)
+* [The International EPR (ESR) Society](https://ieprs.org/)
+  * Full Member
+* [Royal Microscopical Society](https://www.rms.org.uk/)
+  * Member  
+* [European Microscopy Society](https://www.eurmicsoc.org/en/)
+  * Member  
+* [Royal Institute of Navigation](https://rin.org.uk/)
+  * Member (MRIN)  
+* [Quantum Life Science Society](http://jsqls.kenkyuukai.jp/special/?id=25164)
+  * Member
+* [Society of Electron Spin and Technology (SEST)](http://www.sest.gr.jp/en/)
+  * Member
 
 Funding
 ======
-* Currently signed in to 43 different slack teams
+* [JST PRESTO (さきがけ) Quantum Bio](https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/areah29-1.html)
+  * Title: Spatiotemporal measurement of cryptochromes for animal magnetoreception (動物磁気感受のためのクリプトクロム時空間計測)
+  * 55 million JPY (356,000 GBP (XR 2022/01))
+  * 2019/10 - 2023/03
 
 Languages
 ======
