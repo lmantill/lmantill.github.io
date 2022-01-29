@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+* PhD in Environmental Sciences, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), 2018
+  * Laboratory: [Woodward Group](http://opes.c.u-tokyo.ac.jp/spinchem/)
+  * Dissertation: Spatially resolved microspectroscopy of flavin-based magnetosensitive photochemistry（フラビンに基づく磁気感受性光化学の空間分解顕微分光）
+  
 * MChem in Chemistry (with a Year Abroad), [University of Leicester](https://le.ac.uk/) ([University of Stuttgart](https://www.uni-stuttgart.de/en/)), 2014
   * 3rd year project:
 	* Laboratory: [Laschat Group](https://www.ioc.uni-stuttgart.de/en/research/ak-laschat/)
@@ -19,10 +23,6 @@ Education
 	* Laboratory: [Monks Group](https://www2.le.ac.uk/departments/chemistry/people/academic-staff/paul_s_monks)
 	* Dissertation: The determination of total atmospheric hydroxyl radical reactivity with the development of the comparative reactivity method  
 
-* PhD in Environmental Sciences, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), 2018
-  * Laboratory: [Woodward Group](http://opes.c.u-tokyo.ac.jp/spinchem/)
-  * Dissertation: Spatially resolved microspectroscopy of flavin-based magnetosensitive photochemistry（フラビンに基づく磁気感受性光化学の空間分解顕微分光）
-  
 Work experience
 ======
 * Special Project Researcher (特定プロジェクト研究員)
