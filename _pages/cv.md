@@ -139,4 +139,4 @@ Languages
 ======
 * English (Native)
 * Japanese (Intermediate)
-* German (Basic)
+* German (Basic/Intermediate)
