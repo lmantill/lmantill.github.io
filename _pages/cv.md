@@ -18,13 +18,12 @@ Work experience
 ======
 * Special Project Researcher (特定プロジェクト研究員)
   * Saitama University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Laboratory: QBPC (Maeda) Lab
+  * 2019/10 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* JST PRESTO Researcher (さきがけ専任研究者)
+  * Japan Science and Technology Agency (JST)
+  * 2019/10 - Present
   
 Skills
 ======
