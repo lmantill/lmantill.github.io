@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Special Project Researcher (特定プロジェクト研究員)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -47,12 +47,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Funding
 ======
 * Currently signed in to 43 different slack teams
