@@ -16,12 +16,12 @@ Education
   * Dissertation: Spatially resolved microspectroscopy of flavin-based magnetosensitive photochemistry（フラビンに基づく磁気感受性光化学の空間分解顕微分光）
   
 * MChem in Chemistry (with a Year Abroad), [University of Leicester](https://le.ac.uk/) ([University of Stuttgart](https://www.uni-stuttgart.de/en/)), 2014
-  * 3rd year project:
-	* Laboratory: [Laschat Group](https://www.ioc.uni-stuttgart.de/en/research/ak-laschat/)
-	* Dissertation: Liquid crystalline aryl guanidinium ions: effects of bending on the mesomorphic properties
   * 4th year project:
 	* Laboratory: [Monks Group](https://www2.le.ac.uk/departments/chemistry/people/academic-staff/paul_s_monks)
 	* Dissertation: The determination of total atmospheric hydroxyl radical reactivity with the development of the comparative reactivity method  
+  * 3rd year project:
+	* Laboratory: [Laschat Group](https://www.ioc.uni-stuttgart.de/en/research/ak-laschat/)
+	* Dissertation: Liquid crystalline aryl guanidinium ions: effects of bending on the mesomorphic properties
 
 Work experience
 ======
@@ -64,17 +64,17 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Awards
 ======
