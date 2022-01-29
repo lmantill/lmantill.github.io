@@ -55,7 +55,7 @@ Work experience
   * [University of Leicester](https://le.ac.uk/)
   * 2014/07
   
-Expertise
+Skills
 ======
 * [Quantum biology](https://en.wikipedia.org/wiki/Quantum_biology)
 * [Spin chemistry](http://spinportal.chem.ox.ac.uk/home.aspx)
