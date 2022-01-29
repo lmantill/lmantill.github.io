@@ -79,7 +79,7 @@ Skills
   
 Awards and Scholarships
 ======
-* Best Presentation Award
+* [Best Presentation Award](http://www.saitama-u.ac.jp/news_archives/2021-1026-1029-9.html)
   * [The 3rd Annual Meeting of the Quantum Life Science Society Conference (第３回量子生命科学会)](http://jsqls.kenkyuukai.jp/special/?id=25164)
   * Title: Exploring magnetic field effects in biomolecules with high-sensitivity fluorescence spectroscopy
   * 2021/09
@@ -95,6 +95,7 @@ Awards and Scholarships
   * 2018/09
 * Poster Prize
   * Spin Chemistry Meeting 2017 (Taylor & Francis)
+  * Title: Magnetosensitive flavin photochemistry in micron-scale reaction environments
   * 2017/09
 * 2017 International Conference Travel Grant
   * The University of Tokyo
