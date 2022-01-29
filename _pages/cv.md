@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Special Project Researcher (特定プロジェクト研究員)
-  * Github University
+  * Saitama University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
