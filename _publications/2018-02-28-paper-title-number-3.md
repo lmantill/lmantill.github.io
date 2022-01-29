@@ -2,7 +2,7 @@
 title: "Time-resolved optical absorption microspectroscopy of magnetic field sensitive flavin photochemistry"
 collection: publications
 permalink: /publication/2018-02-28-paper-title-number-3
-excerpt: "In this work, we discuss a two- and three-colour confocal pump-probe microscopic approach.<br/><img src='/images/microscope.jpg'>"
+excerpt: "In this work, we discuss a two- and three-colour confocal pump-probe microscopic approach.<br/><img src='/images/microscope.jpeg'>"
 date: 2018-02-28
 venue: 'Review of Scientific Instruments'
 paperurl: 'https://doi.org/10.1063/1.5011693'
