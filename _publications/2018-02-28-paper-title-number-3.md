@@ -1,5 +1,5 @@
 ---
-title: "Time-resolved optical absorption microspectroscopy of magnetic field sensitive flavin photochemistry"
+title: "3. Time-resolved optical absorption microspectroscopy of magnetic field sensitive flavin photochemistry"
 collection: publications
 permalink: /publication/2018-02-28-paper-title-number-3
 excerpt: "In this work, we discuss a two- and three-colour confocal pump-probe microscopic approach.<br/><img src='/images/microscope.jpeg'>"
