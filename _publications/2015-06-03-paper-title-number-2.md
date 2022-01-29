@@ -12,9 +12,9 @@ Short-lived radicals generated in the photoexcitation of flavin adenine dinucleo
 
 "Press Releases"
 
-[The University of Tokyo Press Release](https://www.u-tokyo.ac.jp/focus/en/press/p_20150605.html)
+[The University of Tokyo](https://www.u-tokyo.ac.jp/focus/en/press/p_20150605.html)
 
-[The University of Tokyo Press Release (日本語)](https://www.u-tokyo.ac.jp/focus/ja/articles/a_00386.html)
+[The University of Tokyo (日本語)](https://www.u-tokyo.ac.jp/focus/ja/articles/a_00386.html)
 
 [Science Daily](https://www.sciencedaily.com/releases/2015/06/150604104145.htm)
 
