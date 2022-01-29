@@ -87,18 +87,18 @@ Awards and Scholarships
   * [International EPR (ESR) Society](https://ieprs.org/)
   * 2019/11
 * [The First National High School Memorial Award (一高記念賞)](https://ja.wikipedia.org/wiki/%E4%B8%80%E9%AB%98%E8%A8%98%E5%BF%B5%E8%B3%9E)
-  * The University of Tokyo
+  * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
   * Best academic performance and dissertation in the year.
   * 2019/03
 * Valedictorian (卒業生代表)
-  * The University of Tokyo
+  * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
   * 2018/09
 * [Poster Prize](http://gpes.c.u-tokyo.ac.jp/student-life/Antill%20Lewis%20SCM2017%20report.pdf)
   * Spin Chemistry Meeting 2017 (Taylor & Francis)
   * Title: Magnetosensitive flavin photochemistry in micron-scale reaction environments
   * 2017/09
 * 2017 International Conference Travel Grant
-  * The University of Tokyo
+  * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
   * 2017/05
 * MEXT Scholarship for PhD
   * [Ministry of Education, Culture, Sports, Science and Technology (文部科学省)](https://www.mext.go.jp/en/)
