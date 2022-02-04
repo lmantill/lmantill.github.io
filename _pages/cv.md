@@ -133,7 +133,7 @@ Funding
   
 Editor
 ======
-* PLOS Computational Biology - Guest Editor
+* [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/) - Guest Editor
 
 Languages
 ======
