@@ -80,7 +80,7 @@ Skills
 Awards and Scholarships
 ======
 * [Best Presentation Award](http://www.saitama-u.ac.jp/news_archives/2021-1026-1029-9.html)
-  * [The 3rd Annual Meeting of the Quantum Life Science Society Conference (第３回量子生命科学会)](http://jsqls.kenkyuukai.jp/special/?id=25164)
+  * [The 3rd Annual Meeting of the Quantum Life Science Society Conference (第３回量子生命科学会)](https://quliss.org/3rdconference)
   * Title: Exploring magnetic field effects in biomolecules with high-sensitivity fluorescence spectroscopy
   * 2021/09
 * EFEPR Scholarship
