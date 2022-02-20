@@ -140,3 +140,4 @@ Languages
 * English (Native)
 * Japanese (Intermediate)
 * German (Basic/Intermediate)
+* Korean (Basic)
