@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=w80KNdoAAAAJ&hl=en"
   email            : "lewismantill@saitama-u.ac.jp"
-  researchgate     : "https://www.researchgate.net/profile/Lewis-Martyn-Antill?ev=hdr_xprf&_sg=4KTFJLRxn3QmJVmKgBn9pt-e6FQYgJ16I2wzSOfuarnZrOfZujkIxXG2x_NEy2IVG2mLKxofoA4DpjkaevsFzw8n"
+  researchgate     : "https://www.researchgate.net/profile/Lewis-Martyn-Antill"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "lewis-m-antill-0144a099"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9266-5584"
+  orcid            : "https://orcid.org/0000-0001-9266-5584"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
