@@ -130,6 +130,10 @@ Funding
   * Title: Spatiotemporal measurement of cryptochromes for animal magnetoreception (動物磁気感受のためのクリプトクロム時空間計測)
   * 55 million JPY (356,000 GBP (XR 2022/01))
   * 2019/10 - 2023/03
+* Grant-in-Aid for JSPS Research Fellow
+  * Title: Does protein clustering play a role in biological magnetoreception?
+  * 5.07 million JPY (32,265 GBP (XR 2022/03))
+  * 2018/10 - 2019/09
   
 Editor
 ======
