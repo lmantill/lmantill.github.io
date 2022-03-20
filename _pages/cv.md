@@ -133,7 +133,7 @@ Funding
 * Grant-in-Aid for JSPS Research Fellow
   * Title: Does protein clustering play a role in biological magnetoreception?
   * 5.07 million JPY (32,265 GBP (XR 2022/03))
-  * 2018/10 - 2019/09
+  * 2018/10 - 2020/09
   
 Editor
 ======
