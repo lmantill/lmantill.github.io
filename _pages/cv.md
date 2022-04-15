@@ -70,7 +70,7 @@ Skills
 * [Molecular biology](https://en.wikipedia.org/wiki/Molecular_biology)
   * [Cell culture](https://en.wikipedia.org/wiki/Cell_culture)
   * [Protein production](https://en.wikipedia.org/wiki/Protein_production)
-* Computer languages
+* Programming languages
   * [MATLAB](http://www.mathworks.com)
   * [LabVIEW](https://www.ni.com/en-us/shop/labview.html)
   * [Tcl](https://www.tcl.tk/)
