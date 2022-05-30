@@ -13,7 +13,7 @@ Education
 ======
 * PhD in Environmental Sciences, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), 2018
   * Laboratory: [Woodward Group](http://opes.c.u-tokyo.ac.jp/spinchem/)
-  * Dissertation: Spatially resolved microspectroscopy of flavin-based magnetosensitive photochemistry（フラビンに基づく磁気感受性光化学の空間分解顕微分光）
+  * Dissertation: [Spatially resolved microspectroscopy of flavin-based magnetosensitive photochemistry（フラビンに基づく磁気感受性光化学の空間分解顕微分光）](https://iss.ndl.go.jp/books/R100000039-I003043870-00?ar=4e1f&lat=&lng=)
   
 * MChem in Chemistry (with a Year Abroad), [University of Leicester](https://le.ac.uk/) ([University of Stuttgart](https://www.uni-stuttgart.de/en/)), 2014
   * 4th year project:
