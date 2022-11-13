@@ -159,7 +159,7 @@ Collaborators (alphabetical order)
 Supervision
 ======
 * Master's students
-	* Mizuki Kohmura (香村泉希)　（QBPC (Maeda) Lab)
+	* Mizuki Kohmura (香村泉希) （QBPC (Maeda) Lab)
 	* Ayumi Fukai (深井歩実) （QBPC (Maeda) Lab)
 	* Chiho Jimbo (神保知歩) （QBPC (Maeda) Lab)
 	* Minori Fujita (藤田みのり) （QBPC (Maeda) Lab)
