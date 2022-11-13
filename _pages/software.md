@@ -71,11 +71,12 @@ Skills
   * [Cell culture](https://en.wikipedia.org/wiki/Cell_culture)
   * [Protein production](https://en.wikipedia.org/wiki/Protein_production)
 * Programming languages
-  * [Python](https://www.python.org/)
   * [MATLAB](http://www.mathworks.com)
   * [LabVIEW](https://www.ni.com/en-us/shop/labview.html)
   * [Tcl](https://www.tcl.tk/)
-    
+  * [Python](https://www.python.org/)
+  * [Jupter Notebook](https://jupyter.org/)
+  
 Awards and Scholarships
 ======
 * [Best Presentation Award](http://www.saitama-u.ac.jp/news_archives/2021-1026-1029-9.html)
@@ -92,7 +93,7 @@ Awards and Scholarships
 * Valedictorian (卒業生代表)
   * [The University of Tokyo](https://www.u-tokyo.ac.jp/en/)
   * 2018/09
-* [Best Poster Prize](http://gpes.c.u-tokyo.ac.jp/student-life/Antill%20Lewis%20SCM2017%20report.pdf)
+* [Poster Prize](http://gpes.c.u-tokyo.ac.jp/student-life/Antill%20Lewis%20SCM2017%20report.pdf)
   * Spin Chemistry Meeting 2017 (Taylor & Francis)
   * Title: Magnetosensitive flavin photochemistry in micron-scale reaction environments
   * 2017/09
@@ -106,7 +107,7 @@ Awards and Scholarships
   * [ERASMUS Program](https://www.erasmusprogramme.com/post/scholarships)
   * 2012/07
 
-Professional Affiliations
+Organisations
 ======
 * [Royal Society of Chemistry](https://www.rsc.org/)
   * Member (MRSC)
@@ -123,7 +124,7 @@ Professional Affiliations
 * [Society of Electron Spin and Technology (SEST)](http://www.sest.gr.jp/en/)
   * Member
 
-Research Grants and Funding
+Funding
 ======
 * [JST PRESTO (さきがけ) Quantum Bio](https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/areah29-1.html)
   * Title: Spatiotemporal measurement of cryptochromes for animal magnetoreception (動物磁気感受のためのクリプトクロム時空間計測)
@@ -134,39 +135,9 @@ Research Grants and Funding
   * 5.07 million JPY (32,265 GBP (XR 2022/03))
   * 2018/10 - 2020/09
   
-Peer-Review Activities
+Editor
 ======
-* Referee: 
-	* [Scientific Reports](https://www.nature.com/srep/)
-	* [The European Physical Journal D](https://www.springer.com/journal/10053)
-* Editorial activities:
-	* [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/) - Guest Editor
-	
-Collaborators (alphabetical order)
-======
-* [Shigeki Arai, QST, Japan]https://www.researchgate.net/profile/Shigeki-Arai)
-* [Shin Hatakeyama, Saitama University, Japan](http://s-read.saitama-u.ac.jp/researchers/pages/researcher_en/TShSseBx)
-* [Peter J. Hore, University of Oxford, UK](http://hore.chem.ox.ac.uk/index.shtml)
-* [Hitoshi Ishiwata, QST, Japan](https://researchmap.jp/hitoshimv01)
-* [Alex R. Jones, National Physical Laboratory, UK](https://www.npl.co.uk/people/alex-jones)
-* [Neill Lambert, RIKEN, Japan](https://www.researchgate.net/profile/Neill-Lambert)
-* [Danev Radostin, The University of Tokyo, Japan](https://danevlab.m.u-tokyo.ac.jp/)
-* [Ilia A. Solov’yov, Oldenburg University, Germany](https://quantbiolab.com/)
-* [Miho Suzuki, Saitama University, Japan](http://s-read.saitama-u.ac.jp/researchers/pages/researcher_en/BmhusmBx)
-* [Shota Takemi, Saitama University, Japan](http://s-read.saitama-u.ac.jp/researchers/pages/researcher_en/qVvUJhMx)
-* [Emil Vatai, RIKEN, Japan](https://vatai.github.io/)
-
-Supervision
-======
-* Master's students
-	* Mizuki Kohmura (香村泉希)　（QBPC (Maeda) Lab)
-	* Ayumi Fukai (深井歩実) （QBPC (Maeda) Lab)
-	* Chiho Jimbo (神保知歩) （QBPC (Maeda) Lab)
-	* Minori Fujita (藤田みのり) （QBPC (Maeda) Lab)
-* Bachelor students
-	* Hiroya Matsuda (松田大弥) （QBPC (Maeda) Lab)
-	* Wataru Fushimoto (伏本航) （QBPC (Maeda) Lab)
-	* Ai Hatayama (畑山あい) （QBPC (Maeda) Lab)
+* [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/) - Guest Editor
 
 Languages
 ======
