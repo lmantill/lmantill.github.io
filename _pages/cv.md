@@ -144,7 +144,7 @@ Peer-Review Activities
 	
 Collaborators (alphabetical order)
 ======
-* [Shigeki Arai, QST, Japan]https://www.researchgate.net/profile/Shigeki-Arai)
+* [Shigeki Arai, QST, Japan](https://www.researchgate.net/profile/Shigeki-Arai)
 * [Shin Hatakeyama, Saitama University, Japan](http://s-read.saitama-u.ac.jp/researchers/pages/researcher_en/TShSseBx)
 * [Peter J. Hore, University of Oxford, UK](http://hore.chem.ox.ac.uk/index.shtml)
 * [Hitoshi Ishiwata, QST, Japan](https://researchmap.jp/hitoshimv01)
