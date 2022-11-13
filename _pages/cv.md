@@ -23,7 +23,7 @@ Education
 	* Laboratory: [Laschat Group](https://www.ioc.uni-stuttgart.de/en/research/ak-laschat/)
 	* Dissertation: Liquid crystalline aryl guanidinium ions: effects of bending on the mesomorphic properties
 
-Work experience
+Work Experience
 ======
 * Special Project Researcher (特定プロジェクト研究員)
   * [Saitama University](http://en.saitama-u.ac.jp/)
