@@ -1,14 +1,13 @@
 ---
-title: "RadicalPy"
-collection: software
-type: "Python toolbox"
-permalink: /software/radicalpy
-venue: "Python"
-date: 2022-10-31
-location: "Saitama, Japan"
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
 ---
 
-[Install](https://pypi.org/project/radicalpy/)
+{% include base_path %}
 
-Summary
+RadicalPy
 ======
+
+[Install](https://pypi.org/project/radicalpy/)
