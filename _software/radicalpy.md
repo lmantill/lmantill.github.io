@@ -8,9 +8,5 @@ date: 2022-10-31
 location: "Saitama, Japan"
 ---
 
-Summary
-======
-
-
 
 [Install](https://pypi.org/project/radicalpy/)
