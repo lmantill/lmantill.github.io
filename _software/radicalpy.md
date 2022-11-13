@@ -1,7 +1,7 @@
 ---
 title: "RadicalPy"
 collection: software
-type: "Undergraduate/Postgraduate level"
+type: "Python toolbox"
 permalink: /software/radicalpy
 venue: "Python"
 date: 2022-10-31
