@@ -159,14 +159,14 @@ Collaborators (alphabetical order)
 Supervision
 ======
 * Master's students
-	* Mizuki Kohmura (香村泉希) （QBPC (Maeda) Lab)
-	* Ayumi Fukai (深井歩実) （QBPC (Maeda) Lab)
+	* Mizuki Kohmura (香村泉希) （QBPC (Maeda) Lab)　(RIKEN 2023/04~)
+	* Ayumi Fukai (深井歩実) （QBPC (Maeda) Lab) (Eurofin 2023/04~)
 	* Chiho Jimbo (神保知歩) （QBPC (Maeda) Lab)
 	* Minori Fujita (藤田みのり) （QBPC (Maeda) Lab)
 * Bachelor students
-	* Hiroya Matsuda (松田大弥) （QBPC (Maeda) Lab)
+	* Hiroya Matsuda (松田大弥) （QBPC (Maeda) Lab) (IT company 2021/04~)
 	* Wataru Fushimoto (伏本航) （QBPC (Maeda) Lab)
-	* Ai Hatayama (畑山あい) （QBPC (Maeda) Lab)
+	* Ai Hatayama (畑山愛) （QBPC (Maeda) Lab)
 
 Languages
 ======
