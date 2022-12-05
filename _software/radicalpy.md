@@ -8,7 +8,11 @@ date: 2022-10-31
 location: "Saitama, Japan"
 ---
 
-[Install](https://pypi.org/project/radicalpy/)
+[GitHub](https://github.com/Spin-Chemistry-Labs/radicalpy)
+
+[Pypi](https://pypi.org/project/radicalpy/)
+
+[Documentation](https://radicalpy.readthedocs.io)
 
 Summary
 ======
