@@ -16,3 +16,5 @@ location: "Saitama, Japan"
 
 Summary
 ======
+
+RadicalPy in an intuitive (object-oriented) open-source Python framework specific to radical pair spin dynamics.
