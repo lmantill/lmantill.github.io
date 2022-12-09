@@ -10,9 +10,11 @@ location: "Saitama, Japan"
 
 [GitHub](https://github.com/Spin-Chemistry-Labs/radicalpy)
 
-[Pypi](https://pypi.org/project/radicalpy/)
+[PyPI](https://pypi.org/project/radicalpy/)
 
 [Documentation](https://radicalpy.readthedocs.io)
+
+First presentation (at SEST22) that describes the concept of RadicalPy and provides a few examples. [download](files/SEST22.pdf)
 
 Summary
 ======
