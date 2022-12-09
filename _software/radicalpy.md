@@ -14,7 +14,7 @@ location: "Saitama, Japan"
 
 [Documentation](https://radicalpy.readthedocs.io)
 
-First presentation (at SEST22) that describes the concept of RadicalPy and provides a few examples. [download](files/SEST22.pdf)
+First presentation (at SEST22) that describes the concept of RadicalPy and provides a few examples. [download](SEST22.pdf)
 
 Summary
 ======
