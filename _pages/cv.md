@@ -25,14 +25,22 @@ Education
 
 Work Experience
 ======
+* Postdoctoral Researcher in Laser Photochemistry and Spectroscopy
+  * [University of Oxford](https://www.ox.ac.uk/)
+  * Laboratories: 
+    * [Hore Group](http://hore.chem.ox.ac.uk/index.shtml)
+    * [Mackenzie Group](https://mackenzie.web.ox.ac.uk/)
+    * [Timmel Group](http://timmel.chem.ox.ac.uk/)
+  * 2023/04 - Present
+  
 * Special Project Researcher (特定プロジェクト研究員)
   * [Saitama University](http://en.saitama-u.ac.jp/)
   * Laboratory: [QBPC (Maeda) Lab](http://park.saitama-u.ac.jp/~maedalab/homeEng.html)
-  * 2019/10 - Present
+  * 2019/10 - 2023/03
 
 * PRESTO Researcher (さきがけ専任研究者)
   * [Japan Science and Technology Agency](https://www.jst.go.jp/EN/) (JST, 科学技術振興機構)
-  * 2019/10 - Present
+  * 2019/10 - 2023/03
   
 * Postdoctoral Fellow
   * [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) (JSPS, 日本学術振興会)
