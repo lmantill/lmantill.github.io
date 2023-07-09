@@ -3,7 +3,7 @@ title: "[6] Dimerization of European robin cryptochrome 4a"
 collection: publications
 permalink: /publication/2023-06-20-paper-title-number-5
 excerpt: "To learn more about ErCry4a dimerization and its possible role in magnetoreception, we have explored a variety of candidate structures, including covalently and non-covalently linked forms of the full-length and truncated protein, using a combination of experimental and computational methods to identify potential ErCry4a dimers. Native mass spectrometry (MS), mass photometry (MP), and gel electrophoresis of wild-type (WT) and mutant proteins were used to establish the presence and nature of the dimers, while chemical cross-linking followed by MS (XL-MS) provided information about the relative orientation of the monomer units. A combination of molecular docking and molecular dynamics (MD) techniques provided model structures for comparison with the experimental data.<br/><img src='/images/ncov9.png'>"
-date: 2018-09-20
+date: 2023-06-20
 venue: 'The Journal of Physical Chemistry B'
 paperurl: ''
 citation: 'Maja Hanic, Lewis M. Antill, Angela S. Gehrckens, Jessica Schmidt, Katharina Görtemaker, Rabea Bartölke, Tarick J. El-Baba, Jingjing Xu, Karl-Wilhelm Koch, Henrik Mouritsen, Justin L. P. Benesch, Peter J. Hore, and Ilia A. Solov'yov (2023). &quot;Dimerization of European robin cryptochrome 4a&quot; <i>The Journal of Physical Chemistry B</i>, in press.'
