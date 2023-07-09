@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Lewis M Antill / Spins in biology"
 title_separator          : "-"
 name                     : &name "Lewis M Antill"
-description              : &description "Special Project Researcher (PRESTO Researcher), Saitama University (JST)"
+description              : &description "Research Associate, University of Oxford"
 url                      : https://lmantill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lmantill/lmantill.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lewis M Antill"
   avatar           : "ProfilePic.jpg"
-  bio              : "Special Project Researcher (PRESTO Researcher), Saitama University (JST)"
-  location         : "Saitama, Japan"
+  bio              : "Research Associate, University of Oxford"
+  location         : "Oxford, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=w80KNdoAAAAJ&hl=en"
-  email            : "lewismantill@saitama-u.ac.jp"
+  email            : "lewis.antill@chem.ox.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Lewis-Martyn-Antill"
   uri              :
   bitbucket        :
@@ -265,7 +265,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Tokyo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
