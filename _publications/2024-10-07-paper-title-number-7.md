@@ -6,7 +6,7 @@ excerpt: "In recent times, the radical pair mechanism has gained popularity with
 date: 2024-10-07
 venue: 'Journal of Chemical Theory and Computation'
 paperurl: 'https://doi.org/10.1021/acs.jctc.4c00887'
-citation: 'Lewis M. Antill and Emil Vatai (2024). &quot;RadicalPy: A Tool for Spin Dynamics Simulations&quot; <i>Journal of Chemical Theory and Computation</i>, In Press.'
+citation: 'Lewis M. Antill and Emil Vatai (2024). &quot;RadicalPy: A Tool for Spin Dynamics Simulations&quot; <i>Journal of Chemical Theory and Computation</i>.'
 ---
 Radical pairs (electron–hole pairs, polaron pairs) are transient reaction intermediates that are found and exploited in all areas of science, from the hard realm of physics in the form of organic semiconductors, spintronics, quantum computing, and solar cells
 to the soft domain of chemistry and biology under the guise of chemical reactions in solution, biomimetic systems, and quantum biology. Quantitative analysis of radical pair phenomena has historically been successful by a few select groups. With this in
